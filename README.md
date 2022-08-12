@@ -10,4 +10,4 @@
 - [2022.08.01-2022.08.07](https://github.com/projectmiluju/WIL/tree/main/20220801~20220807)
 `keyWords :: ORM | SQL | MVC `
 - [2022.08.08-2022.08.14](https://github.com/projectmiluju/WIL/tree/main/20220808~20220814)
-  `keyWords ::  |  |  `
+  `keyWords :: CORS`
